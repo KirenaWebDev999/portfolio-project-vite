@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import {FlexWrapper} from "../../../components/FlexWrapper.tsx";
-import photo from '../../../assets/images/foto.webp'
+import photo from '../../../assets/images/foto2.webp'
 import {theme} from "../../../styles/Theme.ts";
 
 export const Main = () => {
